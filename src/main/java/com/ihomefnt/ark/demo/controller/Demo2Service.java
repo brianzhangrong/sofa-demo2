@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 public class Demo2Service implements Demo2Interface {
 
     public String init(){
-        return "demo2 version222222";
+        return "demo2 version111111";
     }
 
 }
